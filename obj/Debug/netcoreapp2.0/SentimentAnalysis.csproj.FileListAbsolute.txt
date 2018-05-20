@@ -1,0 +1,13 @@
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/bin/Debug/netcoreapp2.0/SentimentAnalysis.deps.json
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/bin/Debug/netcoreapp2.0/SentimentAnalysis.runtimeconfig.json
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/bin/Debug/netcoreapp2.0/SentimentAnalysis.runtimeconfig.dev.json
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/bin/Debug/netcoreapp2.0/SentimentAnalysis.dll
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/bin/Debug/netcoreapp2.0/SentimentAnalysis.pdb
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/obj/Debug/netcoreapp2.0/SentimentAnalysis.csproj.CoreCompileInputs.cache
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/obj/Debug/netcoreapp2.0/SentimentAnalysis.AssemblyInfoInputs.cache
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/obj/Debug/netcoreapp2.0/SentimentAnalysis.AssemblyInfo.cs
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/obj/Debug/netcoreapp2.0/SentimentAnalysis.dll
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/obj/Debug/netcoreapp2.0/SentimentAnalysis.pdb
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/obj/Debug/netcoreapp2.0/SentimentAnalysis.csprojResolveAssemblyReference.cache
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/bin/Debug/netcoreapp2.0/Data/imdb_labelled.txt
+/Users/seckinbeduk/Codes/ml/SentimentAnalysis/bin/Debug/netcoreapp2.0/Data/yelp_labelled.txt
