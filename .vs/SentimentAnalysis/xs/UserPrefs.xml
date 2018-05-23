@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{D0B39E9A-511B-4A68-8F31-459014A319DF}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="72" Column="14" />
-      <File FileName="SentimentData.cs" Line="18" Column="18" />
+      <File FileName="Program.cs" Line="50" Column="18" />
+      <File FileName="SentimentData.cs" Line="20" Column="31" />
       <File FileName="Data/imdb_labelled.txt" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SentimentAnalysis" expanded="True">
-            <Node name="SentimentAnalysis" expanded="True" selected="True">
+            <Node name="SentimentAnalysis" expanded="True">
               <Node name="Data" expanded="True" />
             </Node>
           </Node>
