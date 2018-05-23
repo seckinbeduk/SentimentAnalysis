@@ -3833,13 +3833,13 @@
       "projectName": "SentimentAnalysis",
       "projectPath": "/Users/seckinbeduk/Codes/ml/SentimentAnalysis/SentimentAnalysis.csproj",
       "packagesPath": "/Users/seckinbeduk/.nuget/packages/",
-      "outputPath": "/Users/seckinbeduk/Codes/ml/SentimentAnalysis/obj",
+      "outputPath": "/Users/seckinbeduk/Codes/ml/SentimentAnalysis/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/seckinbeduk/.config/NuGet/NuGet.Config"
+        "/Users/seckinbeduk/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3861,15 +3861,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
-          },
           "Microsoft.ML": {
             "target": "Package",
-            "version": "0.1.0"
+            "version": "[0.1.0, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [
